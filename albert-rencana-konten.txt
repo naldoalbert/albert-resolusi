@@ -1,5 +1,7 @@
 RENCANA KONTEN SAYA
 - Python
 - Javascript
+ * ES6
+ * Js Framework
 - Coding Challange
 - dansebagainya
